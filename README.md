@@ -4,4 +4,4 @@ This repository is the official implementation of [FreeLong](https://arxiv.org/p
 
 [Yu Lu](https://yulu.net.cn/), [Yuanzhi Liang](https://akira-l.github.io/), [Linchao Zhu](https://ffmpbgrnn.github.io/) and [Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en)
 
-Please note that the code is still being fine-tuned, and we will release it in the coming days.
+Please note that the code is still being refined, and we will release it in the coming days.
