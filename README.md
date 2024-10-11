@@ -6,7 +6,7 @@
 
 This repository is the official implementation of [FreeLong](https://arxiv.org/pdf/2407.19918).
 
-FreeLong can generate 512-frame long videos with high consistency and fidelity without the need for additional training.
+FreeLong can generate **512-frame** long videos with high consistency and fidelity **without the need for additional training**.
 
 
 
