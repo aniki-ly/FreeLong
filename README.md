@@ -95,9 +95,9 @@ The code is built upon [LaVie](https://github.com/Vchitect/LaVie) and [VideoCraf
 
    ```bibtex
 @article{lu2024freelong,
-  title={FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention},
+  title={Freelong: Training-free long video generation with spectralblend temporal attention},
   author={Lu, Yu and Liang, Yuanzhi and Zhu, Linchao and Yang, Yi},
-  journal={Advances in Neural Information Processing Systems},
+  journal={arXiv preprint arXiv:2407.19918},
   year={2024}
 }
    ```
