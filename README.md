@@ -1,4 +1,4 @@
-# FreeLong : Training-Free Long Video Generation with SpectralBlend Temporal Attention (2024 NIPS)
+# FreeLong : Training-Free Long Video Generation with SpectralBlend Temporal Attention (2024 NeurIPS)
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/pdf/2407.19918)
 [![Project Page](https://img.shields.io/badge/Project-Website-5B7493?logo=googlechrome&logoColor=5B7493)](https://yulu.net.cn/freelong/)
@@ -28,7 +28,7 @@ We propose **FreeLong**, a straightforward and training-free approach  to extend
 
 ## :fire: Updates
 - [10/2024] We release the code of FreeLong implementation on LaVie and VideoCrafter2
-- [9/2024] FreeLong is accepted by NIPS 2024.
+- [9/2024] FreeLong is accepted by NeurIPS 2024.
 - [6/2024] [Project page](https://yulu.net.cn/freelong/) and [paper](https://arxiv.org/pdf/2407.19918) available.
 
 ## :page_with_curl: Usage
