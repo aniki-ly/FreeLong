@@ -1,3 +1,11 @@
+<h1>
+  <img src="https://freelongvideo.github.io/assets/images/freelong++_logo.png" alt="Logo" width="40" style="vertical-align:middle;">
+  FreeLong++ : Training‑Free Long Video Generation via Multi‑band SpectralFusion
+</h1>
+
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/pdf/2407.19918)
+[![Project Page](https://img.shields.io/badge/Project-Website-5B7493?logo=googlechrome&logoColor=5B7493)](https://freelongvideo.github.io/)
+
 # FreeLong : Training-Free Long Video Generation with SpectralBlend Temporal Attention (2024 NeurIPS)
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/pdf/2407.19918)
